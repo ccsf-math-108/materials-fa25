@@ -14,5 +14,5 @@ _There are Canvas access issues today (Oct 20). Here are some of the relevant no
 
 # Additional Links
 * [Code Reference](https://ccsf-math-108.github.io/materials-fa25/resources/code-reference.html)
-* [Oct 20 Zoom Link (Pending)](#)
+* [Oct 20 (7:00 - 9:00 pm) Zoom Link](https://ccsf-edu.zoom.us/j/86859159586?pwd=VaGJ8RNvHhqICu8yngxcHOJYwC1Nha.1)
 * [Oct 21 Zoom Link (Pending)](#)
