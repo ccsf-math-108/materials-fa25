@@ -9,6 +9,8 @@ _There are Canvas access issues today (Oct 20). Here are some of the relevant no
 * [Lecture 21: A/B Testing](https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fmaterials-fa25&branch=main&urlpath=tree%2Fmaterials-fa25%2Flec%2Flec21%2Flec21.ipynb)
 * [Lecture 22: Causality](https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fmaterials-fa25&branch=main&urlpath=tree%2Fmaterials-fa25%2Flec%2Flec22%2Flec22.ipynb)
 * [Lecture 23: Hypothesis Testing Examples](https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fmaterials-fa25&branch=main&urlpath=tree%2Fmaterials-fa25%2Flec%2Flec23%2Flec23.ipynb)
+* [Lab 08: A/B Testing](https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fmaterials-fa25&branch=main&urlpath=tree%2Fmaterials-fa25%2Flab%2Flab08%2Flab08.ipynb)
+* [Homework 08: A/B Testing](https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fmaterials-fa25&branch=main&urlpath=tree%2Fmaterials-fa25%2Fhw%2Fhw08%2Fhw08.ipynb)
 
 # Additional Links
 * [Code Reference](https://ccsf-math-108.github.io/materials-fa25/resources/code-reference.html)
